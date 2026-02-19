@@ -1,5 +1,7 @@
 # STUDENT-ENROLLMENT
- simple web-based system for managing student enrollment records.
+ index.html
+ style.css
+ script.js
 <!DOCTYPE html>
 <html lang="en">
 <head>
